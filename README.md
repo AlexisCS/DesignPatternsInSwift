@@ -1,6 +1,6 @@
 # Design Patterns In Swift 
 
-[![Swift Version][swift-image]][swift-url]  [![Carthage Version][carthage-image]][carthage-url] [![Platform][iOS-image]]() [![License][license-image]][license-url]
+[![Swift Version][swift-image]][swift-url] [![Platform][iOS-image]]()
 
 ## Requirements
 - iOS 12+
